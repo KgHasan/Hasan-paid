@@ -347,7 +347,7 @@ HASAN-VAI-4F1F6751FD-2.0=
 HASAN-VAI-5CF21509D9-2.0==
 
 HASAN-VAI-04D0926FA6-2.0==
-1-0-4-8-0-u-0-_-a-4-8-0
+
 HASAN-VAI-A2E0E559B9-2.0==
 HASAN-VAI-E8C629EDD5-2.0==
 HASAN-VAI-B26F4671E2-2.0==
@@ -366,10 +366,4 @@ HASAN-VAI-7A31FE74D8-2.0==
 HASAN-VAI-3907417BE9-2.0==
 HASAN-VAI-BB8DF21908-2.0==
 HASAN-VAI-FBCE706170-2.0==
-1-0-4-3-6-u-0-_-a-4-3-6 7 day joy
-1-0-4-3-5-u-0-_-a-4-3-5 7 day onno cele
-1-0-2-1-9-u-0-_-a-2-1-9 Santo vai
-1-0-2-2-0-u-0-_-a-2-2-0 Jahid
-1-0-2-8-1-u-0-_-a-2-8-1 7 day raj
-1-0-2-2-1-u-0-_-a-2-2-1 Sumon 7 day 5 tarik
-1-0-0-0-7-u-0-_-a-7 4 day 5 tarik
+
