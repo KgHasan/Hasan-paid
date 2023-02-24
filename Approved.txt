@@ -405,3 +405,4 @@ HASAN-VAI-FBCE706170-2.0==
 1-0-6-2-4-u-0-_-a-6-2-4 Rahim Badsha 
 1-0-4-4-8-u-0-_-a-4-4-8 Md Ebrahim Molla 
 1-0-2-5-4-u-0-_-a-2-5-4 Ew'r Sifat 
+1-0-3-2-2-u-0-_-a-3-2-2 Omi 
